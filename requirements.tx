@@ -1,0 +1,6 @@
+langchain
+groq-client
+pypdf2
+numpy
+faiss-cpu
+transformers
